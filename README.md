@@ -11,4 +11,4 @@ This allows you to search for any GitHub user via the Github API and see:
 - Allows you to connect to their Actual GitHub Profile
 
 
-### Link: https://saboyadev.github.io/GithubFinderApp/
+### Link: https://saboyadev.github.io/GithubFinder/
